@@ -1,13 +1,20 @@
 'use strict';
 
-const {MyMath} = require('./MyMath.js');
-const {Component} = require('./Component.js');
+/*
 
-const  sum2n2 = MyMath.sum(2, 2);
-console.log(sum2n2);
-const multy3n5 = MyMath.multy(3, 5);
-console.log(multy3n5);
+require(path)
 
-const component = new Component();
-console.log(component);
+HOW REQUIRE WORKS:
 
+resolving -> loading -> wrappenig -> evaluation -> cashing
+
+RESOLVING:
+    1) Core modules
+    2) File
+        *.js || *.json
+    3)
+        3.1) package.json -> main
+        3.2) index.js || index.json
+    4) node_modeules
+    5) throw new Error();
+*/ 
