@@ -1,2 +1,0 @@
-OLD content: Helo Node! and NEW content: 'Hello world'APPEND OLD content: Helo Node! and NEW content: 'Hello world'
-APPEND OLD content: Helo Node! and NEW content: 'Hello world'
